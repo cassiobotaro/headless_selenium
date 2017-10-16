@@ -3,11 +3,11 @@ An example of how to run Chrome and Firefox headless without third parties.
 
 ## Requirements
 
-* `pipenv`
+* pipenv
 
-* `[geckodriver](https://github.com/mozilla/geckodriver/releases)`
+* [geckodriver](https://github.com/mozilla/geckodriver/releases)
 
-* `[chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)`
+* [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
 ## Install
 
