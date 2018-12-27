@@ -2,4 +2,5 @@ language: python
 sudo: required
 dist: xenial
 python: "3.7"
-script: True
+install: pip install -r requirements-dev.txt
+script: flake8
